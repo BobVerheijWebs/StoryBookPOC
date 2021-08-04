@@ -1,0 +1,12 @@
+defaultPortal: storybook-exaple
+portals:
+  - name: storybook-exaple
+    portalId: 8499062
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CMj80YqxLxIJAA0AAAAA4A0DGPbehgQgqpCPDCju6QwyFGc075cJghpxOEBu-QhST7qPsehgOigAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgQhRjdxqZ6WTKwzHa_iz4LcGPxGIlI0oDbmEx
+        expiresAt: '2021-08-04T13:22:35.217Z'
+    personalAccessKey: >-
+      CiQ4MWY3YTNhMS1kZmI4LTRlZDItODZkNy1kOWZmZTcxMzVlYjQQ9t6GBBiqkI8MKhkABeaRgoRyP-YmwkCjGPyAHDDHYRTWaUuxSgNuYTE
