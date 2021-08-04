@@ -1,5 +1,8 @@
 # Installation instructions
 
+This repository already has working functionality for one example component.
+If you want to learn how to apply these components in StoryBook in your own repo check the following instructions:
+
 ## Storybook
 
 You can install storybook by running `npx sb init`
